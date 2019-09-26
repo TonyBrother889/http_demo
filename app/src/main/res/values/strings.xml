@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="serverError">服务器错误！</string>
+    <string name="connectTimeOut">连接超时，请重试！</string>
+    <string name="serverBreak">网络中断，请检查网络状态！</string>
+    <string name="dataError">数据错误</string>
+
+</resources>
